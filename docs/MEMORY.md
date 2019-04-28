@@ -31,6 +31,6 @@ The configuration is a list of available ports and their states at the device in
 
 The remaining values on this configuration of ports can be used for future features.
 
-## RAM
+
 
 
